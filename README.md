@@ -70,7 +70,7 @@
 <ul>
 <li><a href="https://huckdev.com/2025/01/02/How-large-should-a-JS-file-be/">How-large-should-a-JS-file-be</a></li>
 <li> <a href="https://huckdev.com/2024/11/13/When%20to%20Use%20===%20and%20==/">When to Use === and ==</a></li>
-<li> <a href="https://huckdev.com/2024/01/28/asynchronousLoading/">asynchronous Loading</a></li>
+<li> <a href="https://huckdev.com/2024/01/21/typeof%20null/">typeof null</a></li>
 
 </ul>
 <!-- posts end -->
